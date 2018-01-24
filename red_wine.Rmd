@@ -6,7 +6,6 @@ January 14, 2018***
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, packages}
 
-
 library(ggplot2)
 library(knitr)
 library(GGally)
